@@ -1,1 +1,1 @@
-This is just a sample.
+This is just a sample text to test pull requests.
